@@ -1,0 +1,2 @@
+# school-management-system
+Documentation
